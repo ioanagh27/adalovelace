@@ -1,0 +1,39 @@
+h1 {
+    text-align: center;
+    color: rgb(2, 138, 138);
+    font-family: 'Splash', cursive;
+    font-size: 50px;
+}
+
+body {
+    background-color: rgb(234, 248, 171);
+    margin: 50px;
+    border: 2px solid black;
+    font-style: italic;
+}
+
+section {
+    text-align: center;
+    padding: 10px 30px 30px 30px;
+
+}
+
+hr {
+    color: rgb(2, 138, 138);
+    width: 50%;
+}
+
+footer {
+    text-align: center;
+    padding: 20px;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(179, 2, 135);
+}
+
+a:hover {
+    color:blue;
+    font-size: 110%;
+}
